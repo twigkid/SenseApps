@@ -2,3 +2,11 @@
 
 # SenseApps
 A web-based "Script" Store Full of Scripts &amp; Programs for the SenseHat
+
+# Installation
+
+Install tkinter with this command
+
+```
+sudo apt-get install python-tk
+```
